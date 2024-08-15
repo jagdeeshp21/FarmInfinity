@@ -8,7 +8,7 @@ You can view the Figma prototype [here](https://www.figma.com/proto/O4kopATF64NZ
 
 ## Sample Screenshots
 ![FarmInfinity](farminfinity.png)
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Demo Video 
 
