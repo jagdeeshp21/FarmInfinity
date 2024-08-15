@@ -8,7 +8,7 @@ You can view the Figma prototype [here](https://www.figma.com/proto/O4kopATF64NZ
 
 ## Demo Video 
 
-You can view the Demo Video of the prototype  [here]().
+You can view the Demo Video of the prototype  [here](https://drive.google.com/file/d/1MsDnd7GqGDshMqj6BEIDk-yqe2pf2lmy/view?usp=drive_link).
 
 ## Ideation PDF
 
